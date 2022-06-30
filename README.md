@@ -1,7 +1,8 @@
 ### Veigar Master 👋
 
-<img src="https://user-images.githubusercontent.com/94657322/176691993-3808f153-80b5-4271-9c86-46cb1bef9bb3.png" height="270px" width="303px">
-
+<p align="center">
+<img src="https://user-images.githubusercontent.com/94657322/176691993-3808f153-80b5-4271-9c86-46cb1bef9bb3.png" height="303px" width="270px">
+</p>
 
 <!--
 **AYH9601/AYH9601** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
