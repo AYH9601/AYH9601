@@ -9,8 +9,9 @@ Veigar from.
 <img src="https://user-images.githubusercontent.com/94657322/176691993-3808f153-80b5-4271-9c86-46cb1bef9bb3.png" height="303px" width="270px">
 </p>
 
-Hava to do. <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
-well done. None
+<p align="center">
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
+</p>
 
 <!--
 **AYH9601/AYH9601** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
