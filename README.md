@@ -1,9 +1,12 @@
 ### Veigar Master 👋
 
+(https://user-images.githubusercontent.com/94657322/176691993-3808f153-80b5-4271-9c86-46cb1bef9bb3.png)
+
+
 <!--
 **AYH9601/AYH9601** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
