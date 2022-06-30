@@ -7,6 +7,7 @@ Veigar from.
 </p>
 
 해야하는 것. <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
+잘하는것 . 없음
 
 <!--
 **AYH9601/AYH9601** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
