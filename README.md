@@ -1,6 +1,6 @@
 ### Veigar Master 👋
 
-(https://user-images.githubusercontent.com/94657322/176691993-3808f153-80b5-4271-9c86-46cb1bef9bb3.png)
+<img src="https://user-images.githubusercontent.com/94657322/176691993-3808f153-80b5-4271-9c86-46cb1bef9bb3.png" height="100px" width="300px">
 
 
 <!--
