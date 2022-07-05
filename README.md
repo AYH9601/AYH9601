@@ -4,7 +4,7 @@
 
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/94657322/177346696-47893ea4-cc3e-46b3-9546-a8bea8bb49df.png" height="411px" width="1000px">
+<img src="https://user-images.githubusercontent.com/94657322/177346696-47893ea4-cc3e-46b3-9546-a8bea8bb49df.png" height="370px" width="900px">
 </p>
 
 
