@@ -2,11 +2,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Veigar%20from.&fontSize=30)
 -->
 
-
+<!--
 <p align="center">
 <img src="https://user-images.githubusercontent.com/94657322/177346696-47893ea4-cc3e-46b3-9546-a8bea8bb49df.png" height="370px" width="900px">
 </p>
-
+-->
 
 
 <p align="center">
